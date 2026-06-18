@@ -1,0 +1,10 @@
+node_modules
+.git
+.github
+coverage
+cypress
+*.test.js
+cypress.config.js
+npm-debug.log*
+Dockerfile
+.dockerignore
